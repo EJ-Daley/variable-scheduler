@@ -315,5 +315,3 @@ The first functional version is complete when it can:
 3. Generate a schedule where possible.
 4. Verify that the schedule satisfies minimum staffing and all implemented hard constraints.
 5. Save a valid schedule or clearly report why a valid schedule could not be produced.
-
-The immediate next step is **Milestone 1: define and validate the two JSON input formats, then load them into pandas DataFrames.**
